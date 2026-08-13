@@ -1,0 +1,13 @@
+ss://YWVzLTI1Ni1nY206UTh6UkVzUVpxZ0BjMjVzMS5qYW1qYW1zLm5ldDoxNjM5Mg#JMS-jamjams1
+ss://YWVzLTI1Ni1nY206UTh6UkVzUVpxZ0BjMjVzMS5qYW1qYW1zLm5ldDoxNjM5Mg#JMS-jamjams2
+vless://7f1a0b44-a7f8-4c5a-866c-86876a84e018@c25s3.jamjams.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp#JMS-jamjams3
+vless://7f1a0b44-a7f8-4c5a-866c-86876a84e018@c25s4.jamjams.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp#JMS-jamjams4
+vless://7f1a0b44-a7f8-4c5a-866c-86876a84e018@c25s5.jamjams.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp#JMS-jamjams5
+vless://7f1a0b44-a7f8-4c5a-866c-86876a84e018@c25s801.jamjams.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp#JMS-jamjams801
+
+ss://YWVzLTI1Ni1nY206UTh6UkVzUVpxZ0BjMjVzMS5qamNydWlzZXMuY29tOjE2Mzky#JMS-jjcruises1
+ss://YWVzLTI1Ni1nY206UTh6UkVzUVpxZ0BjMjVzMS5qamNydWlzZXMuY29tOjE2Mzky#JMS-jjcruises2
+vless://7f1a0b44-a7f8-4c5a-866c-86876a84e018@c25s3.jjcruises.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp#JMS-jjcruises3
+vless://7f1a0b44-a7f8-4c5a-866c-86876a84e018@c25s4.jjcruises.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp#JMS-jjcruises4
+vless://7f1a0b44-a7f8-4c5a-866c-86876a84e018@c25s5.jjcruises.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp#JMS-jjcruises5
+vless://7f1a0b44-a7f8-4c5a-866c-86876a84e018@c25s801.jjcruises.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp#JMS-jjcruises801
